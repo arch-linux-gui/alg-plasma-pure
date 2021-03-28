@@ -9,7 +9,7 @@
 
 
 echo "Welcome to Bootable USB Maker!"
-echo "We are making Thakur OS Bootable USB, please wait..."
+echo "We are making ALG Bootable USB, please wait..."
 echo "                               "
 
 #echo "Printing Partitions in Drive:"
@@ -29,10 +29,10 @@ echo "USB is Formatted.."
 
 echo "                               "
 echo "================================================================"
-echo "Making Thakur OS bootable USB, this may take sometime...."
+echo "Making ALG bootable USB, this may take sometime...."
 cd out
 sudo dd if=archlinux-gui-$(date +%Y.%m.%d)-x86_64.iso of=/dev/sdb status='progress'
 
 
-echo "D O N E! Your USB should be bootable now, with Thakur OS."
+echo "D O N E! Your USB should be bootable now, with Arch Linux GUI."
 echo "Thank YOU!"
