@@ -118,9 +118,15 @@ xdg-user-dirs
 spectacle
 packagekit-qt5
 neofetch
+paru
 
 #Installer
 grub
 calamares
 alg-pure-cala-config
 os-prober
+
+#fonts
+noto-fonts-cjk
+noto-fonts-extra
+noto-fonts-emoji
