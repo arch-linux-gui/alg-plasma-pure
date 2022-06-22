@@ -104,6 +104,7 @@ zsh
 
 #Arch Linux GUI KDE Plasma
 plasma
+archlinux-appstream-data
 xorg
 sddm
 bash-completion
