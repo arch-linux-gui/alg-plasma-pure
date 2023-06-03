@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="alg-plasma"
-iso_label="ALG_KDE_$(date +%Y%m)"
+iso_label="ALG_KDE_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="DemonKiller <https://demonkiller.tech>"
 iso_application="ALG Live/Rescue CD"
 iso_version="$(date +%Y.%m)"

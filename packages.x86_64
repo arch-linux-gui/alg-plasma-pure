@@ -28,6 +28,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+foot-terminfo
 fsarchiver
 gnu-netcat
 gpart
@@ -39,6 +40,8 @@ hdparm
 hyperv
 intel-ucode
 irssi
+iw
+iwd
 jfsutils
 kitty-terminfo
 less
@@ -58,6 +61,7 @@ man-pages
 mc
 mdadm
 memtest86+
+memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -111,6 +115,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
+wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
