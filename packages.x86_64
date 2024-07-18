@@ -130,6 +130,7 @@ xorg
 sddm
 bash-completion
 networkmanager
+alg-welcome
 
 #System Utilities for ALG
 konsole
